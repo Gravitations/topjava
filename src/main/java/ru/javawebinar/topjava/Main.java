@@ -1,11 +1,11 @@
 package ru.javawebinar.topjava;
 
 /**
- * User: gkislin
- * Date: 05.08.2015
+ * User: Andrey
+ * Date: 22.05.2019
  *
  * @link http://caloriesmng.herokuapp.com/
- * @link https://github.com/JavaOPs/topjava
+ * @link https://github.com/Gravitations/topjava
  */
 public class Main {
     public static void main(String[] args) {
